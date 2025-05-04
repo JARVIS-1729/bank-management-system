@@ -25,4 +25,6 @@ This project was built as part of my Data Structures lab work.
 
 ## 📸 Screenshot
 (You can add a terminal screenshot of your program running here later)
+## 📌 Author
+[Likhith Bhanu (Jarvis)](https://github.com/JARVIS-1729)
 
