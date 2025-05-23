@@ -23,8 +23,6 @@ This project was built as part of my Data Structures lab work.
 - Linked Lists
 - Menu-driven program
 
-## 📸 Screenshot
-(You can add a terminal screenshot of your program running here later)
 ## 📌 Author
-[Likhith Bhanu (Jarvis)](https://github.com/JARVIS-1729)
+[Likhith Bhanu] (Jarvis)](https://github.com/JARVIS-1729)
 
